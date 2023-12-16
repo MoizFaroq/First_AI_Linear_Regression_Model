@@ -11,7 +11,7 @@ To use the project, follow these steps:
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.9.7
 - Jupyter Notebook
 - NumPy, Pandas, Matplotlib (or any other dependencies your project might have)
 
